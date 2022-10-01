@@ -4,7 +4,7 @@ Programa simples para exemplificar um cadastro de clientes.
 Versão simplificada do exercício do professor Newton C.
 link: https://sites.google.com/site/profnewtonc/trabalhoav1
 
-para compilar: gcc -Wall cadastro_clientes.c -o cadastro_clientes
+para compilar: gcc -Wall cadastro_clientes.c -o bin/cadastro_clientes.out
 
 
 */
